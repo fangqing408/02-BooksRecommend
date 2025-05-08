@@ -1,0 +1,31 @@
+# 书写自己的页面路由，最后可以一起写到总路由里面
+from .views import (Ad, Books, record_reading,
+                    login, recommend, User, register,
+                    update_rating, update_duration,
+                    get_discussions, add_discussion,
+                    get_liked_books, like_book, unlike_book,
+                    delete_discussion, get_book_reviews,
+                    create_review, delete_book_review,
+                    get_book_details)
+from django.urls import path
+urlpatterns = [
+    path('Ad/', Ad),
+    path('User/', User),
+    path('Books/', Books),
+    path('login/', login),
+    path('register/', register),
+    path('Recommend/', recommend),
+    path('like-book/', like_book),
+    path('unlike-book/', unlike_book),
+    path('get-discussions/', get_discussions),
+    path('update-duration/', update_duration),
+    path('update-rating/', update_rating),
+    path('record-reading/', record_reading),
+    path('get-liked-books/', get_liked_books),
+    path('add-discussion/', add_discussion),
+    path('delete-discussion/', delete_discussion),
+    path('get-book-reviews/', get_book_reviews),
+    path('create-review/', create_review),
+    path('delete-book-review/', delete_book_review),
+    path('get-book-details/', get_book_details),
+]
