@@ -6,7 +6,7 @@
 
 [00-MNIST](https://github.com/fangqing408/00-MNIST)
 
-[00-MNIST](https://github.com/fangqing408/01-CosFace-ArcFace)
+[01-CosFace-ArcFace](https://github.com/fangqing408/01-CosFace-ArcFace)
 
 [The Detail of This Project](https://github.com/fangqing408/02-BooksRecommend/blob/master/recognition/README.md)
 
