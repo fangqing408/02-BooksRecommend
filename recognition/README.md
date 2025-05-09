@@ -19,6 +19,6 @@ django                    4.2.7
 ## 2 >> 开发步骤
 
 - 001 >> [开发前期准备](https://github.com/fangqing408/02-BooksRecommend/blob/master/recognition/001.md)
-- 002 >> [小程序开发介绍]()
-- 003 >> 
+- 002 >> [前端开发](https://github.com/fangqing408/02-BooksRecommend/blob/master/recognition/002.md)
+- 003 >> [后端开发](https://github.com/fangqing408/02-BooksRecommend/blob/master/recognition/003.md)
 
