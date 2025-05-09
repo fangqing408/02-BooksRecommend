@@ -21,4 +21,5 @@ django                    4.2.7
 - 001 >> [开发前期准备](https://github.com/fangqing408/02-BooksRecommend/blob/master/recognition/001.md)
 - 002 >> [前端开发](https://github.com/fangqing408/02-BooksRecommend/blob/master/recognition/002.md)
 - 003 >> [后端开发](https://github.com/fangqing408/02-BooksRecommend/blob/master/recognition/003.md)
+- 004 >> [前后端联系](https://github.com/fangqing408/02-BooksRecommend/blob/master/recognition/004.md)
 
